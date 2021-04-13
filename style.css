@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#helpwolf1 {
+    font-size: 20x;
+}
+
+#wolfrange {
+    font-size: 50px;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
